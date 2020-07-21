@@ -5,3 +5,4 @@ It has an interactive interface and can predict if an individual has diabetes or
 It is possible to determine if a person has diabetes or not through the last section of the application that say 'Classification'.
 If the value in this section is '1' the person has diabetes. In the other hand, if the person obtains the classification '0', 
 the individual does not have diabetes.
+This repository contains the code of the WebApp in the 'WebApp.py' file and the dataset used 'diabetes.csv'.
